@@ -1,8 +1,8 @@
 {
   "name": "moment-simple",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "时间格式化精简版",
-  "main": "index.js",
+  "main": "./component/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ydcss/vue-ydui.git"
+    "url": "https://github.com/LQS5858/moment-simple.git"
   },
   "author": "jessica",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+  }
 }
